@@ -1,4 +1,4 @@
-# 5 - Custom actions
+# 5 - Custom actions!
 In this lab you will create and use custom actions.
 > Duration: 15-20 minutes
 
