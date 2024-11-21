@@ -1,8 +1,11 @@
 name: 01-1. GitHub Actions Demo
-on: 
+
+on:
   push:
     branches:
-      - main
+     - main
+    paths:
+     - 'labs/**'
 
 
 jobs:
